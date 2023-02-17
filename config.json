@@ -5,6 +5,6 @@
     },
     "yetanothersermonhost-rss-feed": "https://yetanothersermon.host/_/bethelstl/feed.rss",
     "text-presets": [
-        "Listen now to the latest sermon on {series} by {preacher} from {date} or browse through all of Bethel's sermons."
+        "Listen now to the latest sermon on <strong>{series}</strong> by {preacher} ({date}) or browse through all of Bethel's sermons."
     ]
 }
