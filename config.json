@@ -3,8 +3,8 @@
         "ip": "0.0.0.0",
         "port": 8080
     },
-    "yetanothersermonhost-rss-feed": "YOUR-RSS-FEED-URL",
+    "yetanothersermonhost-rss-feed": "https://yetanothersermon.host/_/bethelstl/feed.rss",
     "text-presets": [
-        "Listen now to the latest sermon on {series} by {preacher} from {date} or browse through all of our sermons."
+        "Listen now to the latest sermon on {series} by {preacher} from {date} or browse through all of Bethel's sermons."
     ]
 }
